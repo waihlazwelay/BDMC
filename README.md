@@ -1,17 +1,8 @@
-# GMBD
-FREW TOOL ENJOY
-
-💛BANGLADESHI NUMBER CLONE💛
-❤️WORK ONLY BD❤️
-💚COMMAND💚
-
-cd
-
 rm -rf GMBD
 
-git clone https://github💥.com/JISAN-404/GMBD.git
+git clone https://github.com/waihlazwelay/BDMC.git
 
-cd GMBD 
+cd BDMC 
 
 git pull
 
@@ -19,4 +10,6 @@ chmod 777 install
 
 ./install
 
-🚫REMOVE EMOJI🚫
+and then type darkbd
+
+Enjoy 
